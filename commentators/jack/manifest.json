@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "commentator_id": "jack",
+  "display_name": "JACK",
+  "training_version": "0.1.0-draft",
+  "status": "draft",
+  "language": "ru",
+  "files": [
+    "personality.md",
+    "speaking_style.md",
+    "poker_knowledge.md",
+    "examples.json"
+  ]
+}
